@@ -51,4 +51,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-# Add the sitemap here once /sitemap.xml exists in production.
+Sitemap: https://mulberrysamos.com/sitemap.xml
